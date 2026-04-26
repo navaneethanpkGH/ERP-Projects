@@ -1,0 +1,9 @@
+{
+  "name": "ForgeERP Pro - Industry Grade ERP",
+  "description": "Professional industry-grade ERP system with multi-company support, advanced accounting, inventory tracking, GST compliance, and automated manufacturing workflows.",
+  "Overwrite": true,
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
